@@ -1,6 +1,8 @@
 # 2D game - Touch-Of-The-Void\
 
-check out the demo @ https://youtu.be/uPVyCMU1ZOA?si=xGaldKQr0oLZpEt2
+developed using C++ and OpenGL
+
+Check out the demo @ https://youtu.be/uPVyCMU1ZOA?si=xGaldKQr0oLZpEt2   <-- 
 
 code is hidden due to privacy issues. 
 
